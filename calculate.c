@@ -1,5 +1,6 @@
 ////////////////////////////////////
 // calculate.c
+// v 2.0
 
 #include <stdio.h> 
 #include <math.h> 
